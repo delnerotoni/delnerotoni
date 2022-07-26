@@ -1,7 +1,7 @@
 # Olá eu sou o Thony Del Nero
-🤖 Sou desenvolvedor web iniciante
-👾 Estudante de HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC 
-🗨️ Contate-me no e-mail: delnerotoni@gmail.com
+🤖 Sou desenvolvedor web iniciante <br/>
+👾 Estudante de HTML5, CSS3, SASS, Bootstrap, JS, PHP 7, MySQL, JQuery, APIs, REACT <br/>
+🗨️ Contate-me no e-mail: delnerotoni@gmail.com <br/>
 🤝🏼 Sejam bem vindos!
 
 <div align="center">
