@@ -1,9 +1,9 @@
 # Olá eu sou o Thony Del Nero
-🤖 Sou desenvolvedor web iniciante <br/>  
-👾 Estudante de HTML5, CSS3, Bootstrap, JS, Nodejs , MySQL, MongoDB, APIs, Reactjs <br/>
-#Atualmente estou me especializando em testes  manuais e automatizados <br/>
+🤖 QA Tester <br/>  
+👾  Skills >Python, Selenium, Postmam, SQL, Jira <br/>
+#Atua lmente estou me especializando em testes  manuais e automatizados <br/>
 🗨️ Contate-me no e-mail: delnerotoni@gmail.com <br/>
-🤝🏼 Sejam bem vindos!
+🤝🏼  Sejam bem vindos!
 
 <div align="center">
   <a href="https://github.com/delnerotoni">
