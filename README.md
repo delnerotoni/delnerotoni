@@ -1,7 +1,7 @@
-# Olá eu sou o Thony Del Nero
+# Olá !!! 
 🤖 QA Tester - @Utest <br/>  
 👾  Skills >Python, Selenium, Postmam, SQL, Jira <br/>
-# Performed functional : best practices at all levels and pyramid techniques , manual and automated tests , end-to-end and GUI testing web and mobile applications. 
+# I perform : best practices at all levels and pyramid techniques , manual and automated tests , regression testing and exploratory end-to-end and GUI testing web and mobile applications. 
 Performed localization testing (Brazilian and English languages).
 Performed cross browser and cross platform testing.
 Identified, analyzed and reported issus using defect management tools.
