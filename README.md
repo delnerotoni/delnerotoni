@@ -1,7 +1,12 @@
 # Olá eu sou o Thony Del Nero
-🤖 QA Tester Jr <br/>  
+🤖 QA Tester - @Utest <br/>  
 👾  Skills >Python, Selenium, Postmam, SQL, Jira <br/>
-#Atualmente estou me especializando em testes  manuais e automatizados <br/>
+# Performed functional : best practices at all levels and pyramid techniques , manual and automated tests , end-to-end and GUI testing web and mobile applications. 
+Performed localization testing (Brazilian and English languages).
+Performed cross browser and cross platform testing.
+Identified, analyzed and reported issus using defect management tools.
+
+Platforms: Windows and Android / Chrome dev tools / Edge and Chrome <br/>
 🗨️ Contate-me no e-mail: delnerotoni@gmail.com <br/>
 🤝🏼  Sejam bem vindos!
 
