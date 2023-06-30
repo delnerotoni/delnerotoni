@@ -1,6 +1,6 @@
 # Olá !!! 
 🤖 QA Tester - @Utest <br/>  
-👾  Skills >Python, Selenium, Postmam, SQL, Jira <br/>
+👾  Skills >JS, Python, RUy, Selenium, Postmam, SQL, Jira <br/>
 # I perform : best practices at all levels and pyramid techniques , manual and automated tests , regression testing and exploratory end-to-end and GUI testing web and mobile applications. 
 Performed localization testing (Brazilian and English languages).
 Performed cross browser and cross platform testing.
