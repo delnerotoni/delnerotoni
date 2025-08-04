@@ -1,17 +1,24 @@
 # Olá !!! 
-🤖 QA Tester - @Utest <br/>  
-👾  Skills >Web dev, JS, Cypress, APIs, Selenium, Postmam, Mysql, Jira <br/>
-# I perform : best practices at all levels and pyramid techniques , manual and automated tests , regression testing and exploratory end-to-end and GUI testing web and mobile applications. 
-Performed localization testing (Brazilian and English languages).
-Performed cross browser and cross platform testing.
-Identified, analyzed and reported issus using defect management tools.
+🔎 Especialista em Análise de Dados<br/> 🎯 Foco em transformar dados em decisões inteligentes que geram impacto real.<br/> 💡 Curioso por natureza e obcecado por eficiência, uso dados para resolver problemas com precisão cirúrgica.
 
-Platforms: Windows and Android / Chrome dev tools / Edge and Chrome <br/>
+🚀 O que eu faço
+Modelagem e visualização de dados
+
+Dashboards interativos e storytelling analítico
+
+Limpeza e tratamento de bases complexas
+
+Extração de insights para estratégias de negócio
+
+Aplicação de modelos preditivos em cenários reais
+
+Apoio à tomada de decisão com foco em performance
 🗨️ Contate-me no e-mail: delnerotoni@gmail.com <br/>
 🤝🏼  Sejam bem vindos!
 
-<div align="center">
-  <a href="https://github.com/delnerotoni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delnerotoni&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delnerotoni&layout=compact&langs_count=7&theme=city_lights"/>
+<div align="center" style="background:#eaf3fc; padding:30px; border-radius:12px; font-family:Verdana;">
+  <h2 style="color:#305070;">📈 Decifrando o Invisível</h2>
+  <p style="color:#444; max-width:700px;">Cada dado conta uma história — e meu papel é escutá-la, interpretá-la e transformá-la em soluções de valor. Este repositório reúne projetos que mesclam técnica, estratégia e uma pitada de criatividade analítica.</p>
+  <p style="color:#666; font-style:italic;">“Analisar dados é enxergar padrões onde outros só veem números.”</p>
 </div>
+
