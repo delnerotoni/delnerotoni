@@ -1,17 +1,16 @@
-# Olá !!! 
-🔎 Especialista em Análise de Dados<br/> 🎯 Foco em transformar dados em decisões inteligentes que geram impacto real.<br/> 💡 Curioso por natureza e obcecado por eficiência, uso dados para resolver problemas com precisão cirúrgica.
+# 👋 Olá, eu sou o Tony!
 
-🚀 O que eu faço
-Modelagem e visualização de dados
+🎯 **Especialista em Análise de Dados**  
+Transformo dados em decisões inteligentes com foco em performance e impacto real.
 
-Dashboards interativos e storytelling analítico
+---
 
-Limpeza e tratamento de bases complexas
+## 💼 O que eu faço
 
-Extração de insights para estratégias de negócio
-
-Aplicação de modelos preditivos em cenários reais
-
+- 📊 Modelagem e visualização de dados  
+- 📈 Dashboards interativos e storytelling analítico  
+- 🧹 Limpeza e tratamento de bases complexas  
+- 🎯 Extração de insights estratégicos para negócios  
 ### 🧰 Ferramentas e Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
