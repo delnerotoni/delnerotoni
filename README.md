@@ -1,14 +1,19 @@
-🎯 Gestor e Consultor de Agentes de IA  
-💡 Ajudo empresas a automatizar o atendimento e escalar resultados com agentes inteligentes.  
+🌐 Criador de Landing Pages Inteligentes
+💡 Ajudo empresas a converter mais clientes com páginas otimizadas e integradas a soluções inteligentes.
 
-🚀 O que eu faço:
-- Implementação de agentes de IA em WhatsApp, sites e sistemas internos  
-- Estratégia e governança de soluções inteligentes  
-- Automação de triagem e qualificação de leads  
-- Consultoria em integração omnichannel  
-- Modelos de IA especializados por setor (Food Delivery, Saúde, E-commerce)  
+📌 O que eu faço:
+Desenvolvimento de landing pages personalizadas e responsivas
 
-📈 Minha missão é transformar a experiência dos clientes com atendimento 24/7 inteligente, reduzir custos operacionais e impulsionar vendas com tecnologia de ponta.  
+Integração com CRM, WhatsApp e sistemas internos
+
+Estratégias de automação para captura e qualificação de leads
+
+Consultoria em funis de vendas digitais
+
+Páginas otimizadas para diferentes setores (Food Delivery, Saúde, E-commerce)
+
+🎯 Minha missão
+Transformar visitantes em clientes com experiências digitais envolventes, reduzir custos de aquisição e aumentar vendas com tecnologia de ponta.
 
 🌐 Conecte-se comigo:
 - [Site](https://iatonyagentes.com.br)  
