@@ -1,41 +1,45 @@
-🌐 Criador de Landing Pages Inteligentes
-💡 Ajudo empresas a converter mais clientes com páginas otimizadas e integradas a soluções inteligentes.
+Sou um profissional de TI com experiência em **suporte técnico, infraestrutura, banco de dados e desenvolvimento de soluções** voltadas para o segmento de **Comércio Exterior**. Minha atuação une o suporte técnico à inteligência de dados, garantindo eficiência, organização e segurança nos processos.
 
-📌 O que eu faço:
-- Desenvolvimento de landing pages personalizadas e responsivas  
-- Integração com CRM, WhatsApp e sistemas internos  
-- Estratégias de automação para captura e qualificação de leads  
-- Consultoria em funis de vendas digitais  
-- Páginas otimizadas para diferentes setores (Food Delivery, Saúde, E-commerce)  
+---
 
-🎯 Minha missão
-Transformar visitantes em clientes com experiências digitais envolventes, reduzir custos de aquisição e aumentar vendas com tecnologia de ponta.
+## 🚀 Áreas de Atuação
+- **Suporte Técnico / Help Desk**: atendimento de chamados, troubleshooting e gestão de incidentes.
+- **Infraestrutura de Redes**: administração de redes, firewall, VPN, wireless e cloud.
+- **Banco de Dados**: análise, consultas e manipulação de dados utilizando **SQL**.
+- **Desenvolvimento e Automação**: criação de scripts e integrações com **Python** e **JSON**.
+- **Gestão de Documentos Estruturados**: foco na desconsolidação e integridade das informações.
 
+---
+
+## 🛠️ Principais Ferramentas e Tecnologias
+- **Linguagens**: Python, SQL
+- **Banco de Dados**: MySQL, PostgreSQL
+- **Infraestrutura**: VPN, Firewall, Redes Wireless
+- **Cloud**: Azure, AWS
+- **Suporte**: Help Desk, OKTDesk
+- **Automação**: Integrações com JSON e APIs
+
+---
 🌐 Conecte-se comigo:
-- [Site](https://iatonyagentes.com.br)  
 - [LinkedIn](https://linkedin.com/in/seu-perfil)  
 - 📧 delnerotoni@gmail.com  
 
 
-<div align="center" style="background:#eaf3fc; padding:30px; border-radius:12px; font-family:Verdana;">
-  <h2 style="color:#305070;">🌐 Landing Pages Inteligentes</h2>
-  <p style="color:#444; max-width:700px;">
-    Crio landing pages otimizadas e responsivas que aumentam conversão e visibilidade. 
-    Meu papel é desenhar páginas estratégicas, implementar SEO e configurar todas as ferramentas do Google para resultados reais.
-  </p>
+</p>
   <p style="color:#666; font-style:italic;">
-    “Landing pages inteligentes não são apenas páginas, são motores de crescimento digital.”
+    “Unindo suporte técnico e inteligência de dados para transformar processos em soluções seguras e eficientes.”
   </p>
 
   <h3 style="color:#305070; margin-top:20px;">⚙️ Tecnologias que utilizo</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO"/>
-    <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
-    <img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white" alt="Google Tag Manager"/>
-    <img src="https://img.shields.io/badge/Search%20Console-34A853?style=for-the-badge&logo=google-search-console&logoColor=white" alt="Search Console"/>
+    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/Help%20Desk-00ADEF?style=for-the-badge&logo=zendesk&logoColor=white" alt="Help Desk"/>
+    <img src="https://img.shields.io/badge/VPN-FF6F00?style=for-the-badge&logo=protonvpn&logoColor=white" alt="VPN"/>
+    <img src="https://img.shields.io/badge/Firewall-E34F26?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewall"/>
+    <img src="https://img.shields.io/badge/Wireless-009688?style=for-the-badge&logo=cisco&logoColor=white" alt="Wireless"/>
+    <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Cloud"/>
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
   </p>
 </div>
+
